@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Diploma\\C#\\OOP\\Route\\Advanced\\02\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55B85D8A-F632-4E7F-B803-69E546FC116F}|Assignment\\Assignment.csproj|d:\\diploma\\c#\\oop\\route\\advanced\\02\\consoleapp1\\assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55B85D8A-F632-4E7F-B803-69E546FC116F}|Assignment\\Assignment.csproj|solutionrelative:assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55B85D8A-F632-4E7F-B803-69E546FC116F}|Assignment\\Assignment.csproj|d:\\diploma\\c#\\oop\\route\\advanced\\02\\consoleapp1\\assignment\\fixedsizelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55B85D8A-F632-4E7F-B803-69E546FC116F}|Assignment\\Assignment.csproj|solutionrelative:assignment\\fixedsizelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FixedSizeList.cs",
+              "DocumentMoniker": "D:\\Diploma\\C#\\OOP\\Route\\Advanced\\02\\ConsoleApp1\\Assignment\\FixedSizeList.cs",
+              "RelativeDocumentMoniker": "Assignment\\FixedSizeList.cs",
+              "ToolTip": "D:\\Diploma\\C#\\OOP\\Route\\Advanced\\02\\ConsoleApp1\\Assignment\\FixedSizeList.cs",
+              "RelativeToolTip": "Assignment\\FixedSizeList.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAwwDIAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T11:12:38.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Diploma\\C#\\OOP\\Route\\Advanced\\02\\ConsoleApp1\\Assignment\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment\\Program.cs",
+              "ToolTip": "D:\\Diploma\\C#\\OOP\\Route\\Advanced\\02\\ConsoleApp1\\Assignment\\Program.cs",
+              "RelativeToolTip": "Assignment\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T15:57:39.553Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
